@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Obreros</string>
+    <string name="lista">Listado de clientes</string>
+    <string name="barra">Ingrese el nombre a buscar</string>
+    <string name="buscar">Buscar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="nuevo">Nuevo cliente</string>
+    <string name="cartera">Dinero en cartera</string>
+    <string name="recibido">Dinero recibido</string>
+    <string name="prestado">Dinero prestado</string>
+    <string name="guardar">Guardar Registro</string>
+    <string name="nombre">Nombre cliente</string>
+    <string name="valor">Valor prestamo</string>
+    <string name="cuotas">Numero cuotas</string>
+    <string name="valorc">Valor cuota</string>
+    <string name="cuopa">Cuota a pagar</string>
+    <string name="saldo">Saldo</string>
+    <string name="realizar">Realizar pago de cuota</string>
+    <string name="iniciop">Iniciar prestamo</string>
+    <string name="registro">Registrar cliente e iniciar prestamo</string>
+    <string name="atras">Atras</string>
+    <string name="compartir">Crear archivo para envio</string>
+</resources>
